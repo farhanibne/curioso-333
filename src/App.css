@@ -1,0 +1,27 @@
+.App {
+/* nothing */
+background-color: #282c34;
+}
+
+.App-logo {
+  height: 60vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
